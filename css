@@ -1,0 +1,80 @@
+body{
+    background-color:rgb(7, 7, 7);
+    font-family: sans-serif;
+    color: white;
+}
+.etapa1{
+    color: red;
+    text-align: center;
+    font-size: 60px;
+}
+.titulo{
+    text-align: center;
+    top: 30;
+    bottom: 50;
+}
+*{
+    margin:0%;
+    padding: 0%;
+}
+
+.etapa2{
+    height: 750px;
+    background: url("capa3.jpg") center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+
+}
+
+.home{
+    font-size: 25px;
+}
+.epata2 span{
+    font-size: 50px;
+}
+.etapa2 p{
+    font-size: 19px;
+}
+
+.busca{
+    display: grid;
+    grid-template-columns: 500px 250px;
+    margin: ;
+
+}
+ .etapa2 h1{
+     font-size: 65px;
+     max-width: 480px;
+     text-align: center;
+     top: 40px;
+     bottom: 50px;
+
+ }
+
+ .etapa2 button{
+     background-color: red;
+     font-size: 35px;
+     text-align: cen ter;
+ }
+
+ .estranho{
+     background: rgb(0,0,0,0,5);
+     position: absolute;
+     top: 0;
+     left: 0;
+     right: 0;
+     bottom: 0;
+
+ }
+
+ .etapa3{
+    
+     position: absolute;
+     top: 0;
+     left: 0;
+     right: 0;
+     bottom: 0;
+
+ }
